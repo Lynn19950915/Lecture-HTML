@@ -2,7 +2,7 @@
 
 <p align="center">本資料集為 HTML 課程之自學筆記，分為 Lesson (範例程式碼) 及 Demo (網頁實作) 兩部分。<br><br>
 # Lesson 主要記載自學練習之 code，依據主題及關聯共編排 7 章節 25 單元，均附上備忘之註解筆記，末附速查表。<br>
-# Demo 為主題網頁實作，以<a href="http://www.soomal.com/doc/20100007586.htm">2018 維也納新年音樂會</a>網頁為範本，搭配各單元內容，循序建構實作架構。</p>
+# Demo 為主題網頁實作，以 <a href="http://www.soomal.com/doc/20100007586.htm">2018 維也納新年音樂會</a> 網頁為範本，搭配各單元內容，循序建構實作架構。</p>
     
 <pre>
 Lesson 01  HTML 101 (簡介、元素、屬性)
