@@ -1,6 +1,6 @@
 <h2 align="center">Lesson 03: 美化：CSS 選擇器、顏色</h2>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -20,7 +20,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -42,7 +42,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

@@ -1,6 +1,6 @@
 <h2 align="center">Lesson 07: 其他功能 (文本格式化、腳本)</h2>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,7 +21,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -41,7 +41,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -59,7 +59,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

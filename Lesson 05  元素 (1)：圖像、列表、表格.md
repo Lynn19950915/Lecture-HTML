@@ -1,6 +1,6 @@
 <h2 align="center">Lesson 05: 元素 (1)：圖像、列表、表格</h2>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -24,7 +24,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -72,7 +72,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -108,7 +108,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -137,7 +137,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

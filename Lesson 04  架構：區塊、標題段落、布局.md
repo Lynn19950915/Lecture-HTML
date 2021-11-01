@@ -1,6 +1,6 @@
 <h2 align="center">Lesson 04: 架構：區塊、標題段落、布局</h2>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -28,7 +28,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -56,7 +56,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -84,7 +84,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

@@ -1,6 +1,6 @@
 <h2 align="center">Lesson 01: HTML 101 (簡介、元素、屬性)</h2>
 
-```
+```html
 <!--聲明為 HTML 文檔-->
 <!DOCTYPE html>
 <html>
@@ -17,7 +17,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,7 +39,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

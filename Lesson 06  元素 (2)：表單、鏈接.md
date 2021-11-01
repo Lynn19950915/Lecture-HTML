@@ -1,6 +1,6 @@
 <h2 align="center">Lesson 06: 元素 (2)：表單、鏈接</h2>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -35,7 +35,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -77,7 +77,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -101,7 +101,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>

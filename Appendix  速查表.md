@@ -1,6 +1,6 @@
 <h2 align="center">Appendix: 速查表</h2>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,7 +21,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -54,7 +54,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -82,7 +82,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -102,7 +102,7 @@
 ```
 <br/>
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
